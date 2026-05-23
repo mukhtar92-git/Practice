@@ -7,7 +7,7 @@ internal class Program
         Console.WriteLine("Hello, World!");
         Patient patient = new Patient();
         Hospital hospital = new Hospital();
-        hospital.pa
+       // hospital.pa
 
     }
 }
