@@ -1,0 +1,11 @@
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\bin\Debug\net8.0\DemoHospital.Core.deps.json
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\bin\Debug\net8.0\DemoHospital.Core.dll
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\bin\Debug\net8.0\DemoHospital.Core.pdb
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\DemoHospital.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\DemoHospital.Core.AssemblyInfoInputs.cache
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\DemoHospital.Core.AssemblyInfo.cs
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\DemoHospital.Core.csproj.CoreCompileInputs.cache
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\DemoHospital.Core.dll
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\refint\DemoHospital.Core.dll
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\DemoHospital.Core.pdb
+E:\Trainings\DemoHospitalApp\DemoHospital.Core\obj\Debug\net8.0\ref\DemoHospital.Core.dll
